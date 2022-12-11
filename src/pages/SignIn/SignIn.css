@@ -1,0 +1,7 @@
+.sign-in-form {
+    margin-top: 10%;
+}
+
+.sign-in-form .error {
+    color: orangered;
+}

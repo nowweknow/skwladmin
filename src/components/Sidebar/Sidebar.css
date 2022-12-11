@@ -1,0 +1,20 @@
+.sidebar-wrapper {
+    border: 1px solid darkgrey;
+    height: 100%;
+}
+.sidebar-wrapper a {
+    display: block;
+    padding: 15px 0px;
+    border-bottom: 1px solid lightgray;
+    font-size: 20px;
+}
+
+.sidebar-wrapper a:hover {
+    background-color: lightgray;
+}
+
+.sidebar-wrapper .logout {
+    position: relative;
+    top: 72%;
+}
+
